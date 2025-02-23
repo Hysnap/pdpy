@@ -211,3 +211,5 @@ pdpy.reset_api_url()
 ```
 
 You can check the currently set API url with `pdpy.get_api_url()`.
+
+## 2025-02-23 - Updated from https://github.com/houseofcommonslibrary/pdpy - to take into account depreciated Numpy method - by Hysnap
